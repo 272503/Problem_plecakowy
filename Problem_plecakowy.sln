@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_plecakowy", "Problem_plecakowy\Problem_plecakowy.csproj", "{C0E604A4-2071-468A-8249-A2CD574196A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plecak_Test", "Plecak_Test\Plecak_Test.csproj", "{8A081238-A3DA-4AC2-BDD7-5D9C0A8F31C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplikacja", "Aplikacja\Aplikacja.csproj", "{8E5E2E8D-D22B-4D1C-9493-1CBF99F85311}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0E604A4-2071-468A-8249-A2CD574196A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E604A4-2071-468A-8249-A2CD574196A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E604A4-2071-468A-8249-A2CD574196A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E604A4-2071-468A-8249-A2CD574196A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A081238-A3DA-4AC2-BDD7-5D9C0A8F31C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A081238-A3DA-4AC2-BDD7-5D9C0A8F31C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A081238-A3DA-4AC2-BDD7-5D9C0A8F31C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A081238-A3DA-4AC2-BDD7-5D9C0A8F31C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5E2E8D-D22B-4D1C-9493-1CBF99F85311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5E2E8D-D22B-4D1C-9493-1CBF99F85311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5E2E8D-D22B-4D1C-9493-1CBF99F85311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5E2E8D-D22B-4D1C-9493-1CBF99F85311}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
